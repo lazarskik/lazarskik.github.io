@@ -8,11 +8,11 @@ tags: [Phones]
 summary: 
 ---
 ### Introduction
-After watching the 1975 film 'Three Days of the Condor' the other night, it was interesting to see the main character Joe Turner (played by Robert Redford) utilize a telephone test set to listen in on a phone call. You can see this below the picture below. After serving in the United States Army Signal Corps as a phone maintenance specialist, Turner graduated from the City College of New York before going onto Bell Labs and the CIA. He's a computer geek who would not feel out of place in today's Silicon Valley. 
+After watching the 1975 film 'Three Days of the Condor' the other night, it was interesting to see the main character Joe Turner (played by Robert Redford) utilize a telephone test set to listen in on a phone call. You can see this in the picture below. After serving in the United States Army Signal Corps as a phone maintenance specialist, Turner graduated from the City College of New York before going onto Bell Labs and the CIA. He's a computer geek who would not feel out of place in today's Silicon Valley. 
 
-![Condor working on phone line](/assets/condor-phone.jpg)
+![Condor|200](/assets/condor-phone.jpg)
 
-Here's an explanation of the tool being used. When connected to a line using the 2 leads, a test set is essentially indistinguishable from regular subscriber equipment. It's a tool that can perform the following: monitor an active call, answer incoming calls, and make outgoing calls. 
+Here's an explanation of the tool being used. When connected to a line using the 2 leads, a test set is essentially indistinguishable from regular subscriber equipment. It can perform the following: monitor an active call, answer incoming calls, and make outgoing calls. 
 
 The great thing about such movies is it makes you think about the skills needed in computer science, information technology and electrical engineering to troubleshoot issues and solve problems.
 
