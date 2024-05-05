@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Electricity Basics
 date: 2023-03-18 14:42
@@ -27,4 +26,4 @@ It is best to use a water analogy which is the flow of water through a pipe. The
 
 ### MultiMeter Basics
 
-- A multimeter is a versatile tool used to measure various electrical parameters such as voltage, current, resistance, and continuity.
+- A multimeter is an important tool used to measure various electrical parameters such as voltage, current, resistance, and continuity.
